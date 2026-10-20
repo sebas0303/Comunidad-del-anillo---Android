@@ -16,4 +16,4 @@ Aplicación Android nativa desarrollada para el ciclo formativo de grado superio
 4. Selecciona un dispositivo virtual (AVD con API 24 o superior) o dispositivo físico.
 5. Haz clic en **Run 'app' (Shift + F10)**.
 
-Profesor: Ciclo DAM - Programación Multimedia y Dispositivos Móviles
+Programación Multimedia y Dispositivos Móviles
