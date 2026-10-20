@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="#020617">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="12dp"
+        android:text="💡 Mantén pulsada una etapa para inspeccionar el terreno"
+        android:textColor="#94A3B8"
+        android:textSize="12sp"
+        android:background="#0F172A" />
+
+    <!-- ListView alimentado por el adaptador personalizado EtapaAdapter -->
+    <ListView
+        android:id="@+id/lvEtapas"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:divider="#1E293B"
+        android:dividerHeight="1dp" />
+
+</LinearLayout>

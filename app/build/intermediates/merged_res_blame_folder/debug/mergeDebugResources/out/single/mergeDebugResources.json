@@ -1,0 +1,98 @@
+[
+    {
+        "merged": "C:\\Users\\arqui\\.gradle\\daemon\\9.6.0\\com.dam.comunidaddelanillo.app-debug-32:\\drawable_etapa_lorien.xml.flat",
+        "source": "C:\\Users\\arqui\\.gradle\\daemon\\9.6.0\\com.dam.comunidaddelanillo.app-main-34:\\drawable\\etapa_lorien.xml"
+    },
+    {
+        "merged": "C:\\Users\\arqui\\.gradle\\daemon\\9.6.0\\com.dam.comunidaddelanillo.app-debug-32:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\arqui\\.gradle\\daemon\\9.6.0\\com.dam.comunidaddelanillo.app-main-34:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\arqui\\.gradle\\daemon\\9.6.0\\com.dam.comunidaddelanillo.app-debug-32:\\drawable_etapa_default.xml.flat",
+        "source": "C:\\Users\\arqui\\.gradle\\daemon\\9.6.0\\com.dam.comunidaddelanillo.app-main-34:\\drawable\\etapa_default.xml"
+    },
+    {
+        "merged": "C:\\Users\\arqui\\.gradle\\daemon\\9.6.0\\com.dam.comunidaddelanillo.app-debug-32:\\layout_activity_detalle.xml.flat",
+        "source": "C:\\Users\\arqui\\.gradle\\daemon\\9.6.0\\com.dam.comunidaddelanillo.app-main-34:\\layout\\activity_detalle.xml"
+    },
+    {
+        "merged": "C:\\Users\\arqui\\.gradle\\daemon\\9.6.0\\com.dam.comunidaddelanillo.app-debug-32:\\drawable_etapa_amon_sul.xml.flat",
+        "source": "C:\\Users\\arqui\\.gradle\\daemon\\9.6.0\\com.dam.comunidaddelanillo.app-main-34:\\drawable\\etapa_amon_sul.xml"
+    },
+    {
+        "merged": "C:\\Users\\arqui\\.gradle\\daemon\\9.6.0\\com.dam.comunidaddelanillo.app-debug-32:\\drawable_etapa_mordor.xml.flat",
+        "source": "C:\\Users\\arqui\\.gradle\\daemon\\9.6.0\\com.dam.comunidaddelanillo.app-main-34:\\drawable\\etapa_mordor.xml"
+    },
+    {
+        "merged": "C:\\Users\\arqui\\.gradle\\daemon\\9.6.0\\com.dam.comunidaddelanillo.app-debug-32:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\arqui\\.gradle\\daemon\\9.6.0\\com.dam.comunidaddelanillo.app-main-34:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\arqui\\.gradle\\daemon\\9.6.0\\com.dam.comunidaddelanillo.app-debug-32:\\layout_activity_splash.xml.flat",
+        "source": "C:\\Users\\arqui\\.gradle\\daemon\\9.6.0\\com.dam.comunidaddelanillo.app-main-34:\\layout\\activity_splash.xml"
+    },
+    {
+        "merged": "C:\\Users\\arqui\\.gradle\\daemon\\9.6.0\\com.dam.comunidaddelanillo.app-debug-32:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\arqui\\.gradle\\daemon\\9.6.0\\com.dam.comunidaddelanillo.app-main-34:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\arqui\\.gradle\\daemon\\9.6.0\\com.dam.comunidaddelanillo.app-debug-32:\\layout_item_etapa.xml.flat",
+        "source": "C:\\Users\\arqui\\.gradle\\daemon\\9.6.0\\com.dam.comunidaddelanillo.app-main-34:\\layout\\item_etapa.xml"
+    },
+    {
+        "merged": "C:\\Users\\arqui\\.gradle\\daemon\\9.6.0\\com.dam.comunidaddelanillo.app-debug-32:\\drawable_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\arqui\\.gradle\\daemon\\9.6.0\\com.dam.comunidaddelanillo.app-main-34:\\drawable\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\arqui\\.gradle\\daemon\\9.6.0\\com.dam.comunidaddelanillo.app-debug-32:\\drawable_etapa_rivendel.xml.flat",
+        "source": "C:\\Users\\arqui\\.gradle\\daemon\\9.6.0\\com.dam.comunidaddelanillo.app-main-34:\\drawable\\etapa_rivendel.xml"
+    },
+    {
+        "merged": "C:\\Users\\arqui\\.gradle\\daemon\\9.6.0\\com.dam.comunidaddelanillo.app-debug-32:\\mipmap_ic_launcher.xml.flat",
+        "source": "C:\\Users\\arqui\\.gradle\\daemon\\9.6.0\\com.dam.comunidaddelanillo.app-main-34:\\mipmap\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\arqui\\.gradle\\daemon\\9.6.0\\com.dam.comunidaddelanillo.app-debug-32:\\drawable_etapa_comarca.xml.flat",
+        "source": "C:\\Users\\arqui\\.gradle\\daemon\\9.6.0\\com.dam.comunidaddelanillo.app-main-34:\\drawable\\etapa_comarca.xml"
+    },
+    {
+        "merged": "C:\\Users\\arqui\\.gradle\\daemon\\9.6.0\\com.dam.comunidaddelanillo.app-debug-32:\\drawable_ic_anillo_dorado.xml.flat",
+        "source": "C:\\Users\\arqui\\.gradle\\daemon\\9.6.0\\com.dam.comunidaddelanillo.app-main-34:\\drawable\\ic_anillo_dorado.xml"
+    },
+    {
+        "merged": "C:\\Users\\arqui\\.gradle\\daemon\\9.6.0\\com.dam.comunidaddelanillo.app-debug-32:\\drawable_etapa_bree.xml.flat",
+        "source": "C:\\Users\\arqui\\.gradle\\daemon\\9.6.0\\com.dam.comunidaddelanillo.app-main-34:\\drawable\\etapa_bree.xml"
+    },
+    {
+        "merged": "C:\\Users\\arqui\\.gradle\\daemon\\9.6.0\\com.dam.comunidaddelanillo.app-debug-32:\\drawable_etapa_emyn_muil.xml.flat",
+        "source": "C:\\Users\\arqui\\.gradle\\daemon\\9.6.0\\com.dam.comunidaddelanillo.app-main-34:\\drawable\\etapa_emyn_muil.xml"
+    },
+    {
+        "merged": "C:\\Users\\arqui\\.gradle\\daemon\\9.6.0\\com.dam.comunidaddelanillo.app-debug-32:\\drawable_etapa_moria.xml.flat",
+        "source": "C:\\Users\\arqui\\.gradle\\daemon\\9.6.0\\com.dam.comunidaddelanillo.app-main-34:\\drawable\\etapa_moria.xml"
+    },
+    {
+        "merged": "C:\\Users\\arqui\\.gradle\\daemon\\9.6.0\\com.dam.comunidaddelanillo.app-debug-32:\\menu_menu_contextual_etapa.xml.flat",
+        "source": "C:\\Users\\arqui\\.gradle\\daemon\\9.6.0\\com.dam.comunidaddelanillo.app-main-34:\\menu\\menu_contextual_etapa.xml"
+    },
+    {
+        "merged": "C:\\Users\\arqui\\.gradle\\daemon\\9.6.0\\com.dam.comunidaddelanillo.app-debug-32:\\menu_menu_main.xml.flat",
+        "source": "C:\\Users\\arqui\\.gradle\\daemon\\9.6.0\\com.dam.comunidaddelanillo.app-main-34:\\menu\\menu_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\arqui\\.gradle\\daemon\\9.6.0\\com.dam.comunidaddelanillo.app-debug-32:\\drawable_etapa_amon_hen.xml.flat",
+        "source": "C:\\Users\\arqui\\.gradle\\daemon\\9.6.0\\com.dam.comunidaddelanillo.app-main-34:\\drawable\\etapa_amon_hen.xml"
+    },
+    {
+        "merged": "C:\\Users\\arqui\\.gradle\\daemon\\9.6.0\\com.dam.comunidaddelanillo.app-debug-32:\\drawable_etapa_cienagas.xml.flat",
+        "source": "C:\\Users\\arqui\\.gradle\\daemon\\9.6.0\\com.dam.comunidaddelanillo.app-main-34:\\drawable\\etapa_cienagas.xml"
+    },
+    {
+        "merged": "C:\\Users\\arqui\\.gradle\\daemon\\9.6.0\\com.dam.comunidaddelanillo.app-debug-32:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\arqui\\.gradle\\daemon\\9.6.0\\com.dam.comunidaddelanillo.app-main-34:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\arqui\\.gradle\\daemon\\9.6.0\\com.dam.comunidaddelanillo.app-debug-32:\\mipmap_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\arqui\\.gradle\\daemon\\9.6.0\\com.dam.comunidaddelanillo.app-main-34:\\mipmap\\ic_launcher_round.xml"
+    }
+]

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="oro_anillo">#F59E0B</color>
+    <color name="peligro_alto">#F97316</color>
+    <color name="peligro_bajo">#10B981</color>
+    <color name="peligro_extremo">#EF4444</color>
+    <color name="peligro_medio">#F59E0B</color>
+    <color name="white">#FFFFFFFF</color>
+    <string name="app_name">Comunidad del Anillo</string>
+    <string name="menu_abandonar">Abandonar Misión</string>
+    <string name="menu_inspeccionar">Inspeccionar Terreno</string>
+    <string name="title_activity_detalle">Detalle del Terreno</string>
+    <string name="title_activity_main">Ruta a Mordor</string>
+    <style name="Theme.ComunidadDelAnillo" parent="Theme.MaterialComponents.DayNight.DarkActionBar">
+        <item name="colorPrimary">#D97706</item>
+        <item name="colorPrimaryVariant">#B45309</item>
+        <item name="colorOnPrimary">#FFFFFF</item>
+        <item name="colorSecondary">#10B981</item>
+        <item name="android:statusBarColor">#0F172A</item>
+    </style>
+    <style name="Theme.ComunidadDelAnillo.Splash" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="android:windowBackground">#0F172A</item>
+        <item name="android:statusBarColor">#0F172A</item>
+    </style>
+</resources>

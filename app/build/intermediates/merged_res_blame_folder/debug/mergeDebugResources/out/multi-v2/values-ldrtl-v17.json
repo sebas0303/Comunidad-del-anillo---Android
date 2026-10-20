@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.dam.comunidaddelanillo.app-mergeDebugResources-30:/values-ldrtl-v17/values-ldrtl-v17.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\arqui\\.gradle\\caches\\9.6.0\\transforms\\7a99b26f25fc12e0b28c395d97671846\\transformed\\material-1.12.0\\res\\values-ldrtl-v17\\values-ldrtl-v17.xml",
+                    "from": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,191",
+                        "endColumns": "135,140",
+                        "endOffsets": "186,327"
+                    }
+                }
+            ]
+        }
+    ]
+}

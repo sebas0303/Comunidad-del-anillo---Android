@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="horizontal"
+    android:padding="14dp"
+    android:gravity="center_vertical"
+    android:background="?android:attr/selectableItemBackground">
+
+    <!-- Miniatura del terreno -->
+    <ImageView
+        android:id="@+id/ivTerreno"
+        android:layout_width="56dp"
+        android:layout_height="56dp"
+        android:contentDescription="Miniatura de la etapa"
+        android:scaleType="centerCrop"
+        android:src="@drawable/etapa_default" />
+
+    <LinearLayout
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:layout_marginStart="14dp"
+        android:orientation="vertical">
+
+        <!-- Nombre de la localización -->
+        <TextView
+            android:id="@+id/tvNombreEtapa"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Nombre de la etapa"
+            android:textColor="#F8FAFC"
+            android:textSize="16sp"
+            android:textStyle="bold" />
+
+        <!-- Tipo de terreno -->
+        <TextView
+            android:id="@+id/tvTipoTerreno"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="2dp"
+            android:text="Terreno de la etapa"
+            android:textColor="#94A3B8"
+            android:textSize="13sp" />
+
+        <!-- Peligrosidad del territorio -->
+        <TextView
+            android:id="@+id/tvPeligrosidad"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="4dp"
+            android:text="Peligro: Media"
+            android:textColor="#F59E0B"
+            android:textSize="12sp"
+            android:textStyle="bold" />
+
+    </LinearLayout>
+
+</LinearLayout>

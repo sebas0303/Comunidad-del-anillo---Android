@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="oro_anillo">#F59E0B</color>
+    <color name="peligro_bajo">#10B981</color>
+    <color name="peligro_medio">#F59E0B</color>
+    <color name="peligro_alto">#F97316</color>
+    <color name="peligro_extremo">#EF4444</color>
+</resources>

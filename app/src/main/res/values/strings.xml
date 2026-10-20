@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Comunidad del Anillo</string>
+    <string name="title_activity_main">Ruta a Mordor</string>
+    <string name="title_activity_detalle">Detalle del Terreno</string>
+    <string name="menu_abandonar">Abandonar Misión</string>
+    <string name="menu_inspeccionar">Inspeccionar Terreno</string>
+</resources>

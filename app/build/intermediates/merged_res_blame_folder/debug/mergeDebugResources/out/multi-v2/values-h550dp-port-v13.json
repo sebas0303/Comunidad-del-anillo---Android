@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.dam.comunidaddelanillo.app-mergeDebugResources-30:/values-h550dp-port-v13/values-h550dp-port-v13.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\arqui\\.gradle\\caches\\9.6.0\\transforms\\7a99b26f25fc12e0b28c395d97671846\\transformed\\material-1.12.0\\res\\values-h550dp-port-v13\\values-h550dp-port-v13.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "64",
+                        "endOffsets": "115"
+                    }
+                }
+            ]
+        }
+    ]
+}
